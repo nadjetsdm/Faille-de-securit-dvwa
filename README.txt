@@ -7,4 +7,5 @@ Correction de Données : Corriger facilement les anomalies et incohérences.
 Enrichissement de Données : Améliorer vos données avec des informations supplémentaires.
 
 Informations pour les Utilisateurs
-Pour des informations sur les utilisateurs finaux, les téléchargements, les actualités et la documentation, veuillez visiter le Site Web Communautaire DataCleaner
+Pour des informations sur les utilisateurs finaux, les téléchargements, les actualités et la documentation, veuillez visiter le Site Web Communautaire DataCleaner :
+https://datacleaner.github.io/
