@@ -1,3 +1,8 @@
+la methode utilisée: Dans cette initiative à la recherche de faille, nous avons uitilisé le logiciel Docker avec lequelle nous avons créer un conteneur graçe à l'image citizenstig/dvwa
+après avoir lancé la vérification sur notre code avec notre conteneur, nous avons constaté une liste d'érreur provenant des pckages utilisé
+
+
+
 d'ou vient cette faille;
 
 Vulnérabilités dans les packages :
